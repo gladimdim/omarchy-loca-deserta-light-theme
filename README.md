@@ -36,7 +36,7 @@ Active window borders run a 45° gradient from deep plasma blue to dark brass.
 
 DARYA-class ship art from the universe, reworked for a light desktop:
 
-1. `01-darya-ink-on-paper` — technical drawing inverted to ink on warm paper
+1. `01-darya-ink-on-paper` — technical drawing inverted to ink on warm paper with title telemetry
 2. `02-darya-blueprint-white` — the same drawing as blue ink on white
 3. `03-darya-core-pale` — the warp core ring, washed toward paper
 4. `04-darya-dsrp7-ink` — DSRP-7 drawing as ink on paper
