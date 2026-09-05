@@ -1,18 +1,16 @@
 # Loca Deserta Light
 
+```bash
+omarchy theme install https://github.com/gladimdim/omarchy-loca-deserta-light-theme.git
+omarchy theme set "Loca Deserta Light"
+```
+
 An [Omarchy](https://omarchy.org) theme for the far-future **Loca Deserta** universe,
 daylight variant: engineering drawings of the DARYA-class warp carrier on paper.
 
 ![Preview](preview.png)
 
 Companion theme: [Loca Deserta Dark](https://github.com/gladimdim/omarchy-loca-deserta-dark-theme).
-
-## Install
-
-```bash
-omarchy theme install https://github.com/gladimdim/omarchy-loca-deserta-light-theme.git
-omarchy theme set "Loca Deserta Light"
-```
 
 ## Palette
 
