@@ -1,0 +1,38 @@
+# Loca Deserta Light — far-future Hetmanate, daylight variant.
+# Hull-white paper background, void charcoal text, deep plasma-blue accent,
+# dark brass, laser red. Companion to Loca Deserta Dark.
+mode = "light"
+
+accent = "#1a6fa3"
+selection = "#c9d3dc"
+muted = "#9aa1a9"
+
+background = "#ebe8e1"
+dark_background = "#e0ddd5"
+darker_background = "#d4d1c9"
+lighter_background = "#f4f2ec"
+
+foreground = "#1d2227"
+dark_foreground = "#7c8592"
+light_foreground = "#3a4149"
+bright_foreground = "#121518"
+
+red = "#b8332c"
+yellow = "#9a6b12"
+orange = "#b85a1e"
+green = "#3f7d33"
+cyan = "#177f8b"
+blue = "#2a63b8"
+magenta = "#7b4fb0"
+brown = "#6e4b33"
+
+bright_red = "#c93f37"
+bright_yellow = "#ad7a18"
+bright_green = "#4a8f3c"
+bright_cyan = "#1d909c"
+bright_blue = "#3572c8"
+bright_magenta = "#8a5cc2"
+
+# Deep plasma blue to dark brass window border.
+hyprland_active_border = "rgba(1a6fa3ee) rgba(9a6b12ee) 45deg"
+hyprland_inactive_border = "rgba(c9d3dcaa)"
